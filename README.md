@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and mobile app development.
 - 🌱 I’m currently learning BSc CSIT.
 - 💞️ I’m looking to collaborate on Game development and mobile app development.
-- 📫 You can reach me through the email address "neplay7@gmail.com
+- 📫 You can reach me through the email address "neplay7@gmail.com".
 - 
 
 <!---
