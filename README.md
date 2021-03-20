@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nepalgames
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning BSc CSIT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game development and mobile app development.
+- 🌱 I’m currently learning BSc CSIT.
+- 💞️ I’m looking to collaborate on Game development and mobile app development.
+- 📫 You can reach me through the email address "neplay7@gmail.com
+- 
 
 <!---
 nepalgames/nepalgames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
