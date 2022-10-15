@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neplaygames&show_icons=true&locale=en&layout=compact" alt="neplaygames" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neplaygames&show_icons=true&locale=en" alt="neplaygames" /></p>
+<p>&nbsp;<img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=neplaygames&show_icons=true&locale=en" alt="neplaygames" /></p>
