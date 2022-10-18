@@ -1,13 +1,13 @@
 [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://shreejanpandey.itch.io/)
 
 <h1 align="center">Hi 👋, I'm Shreejan Pandey</h1>
-<h3 align="center">A passionate Game Developer from Kathmandu, Nepal.</h3>
+<h3 align="center">A passionate Software Developer from Kathmandu, Nepal.</h3>
 
 - 🔭 I’m currently working on [new turn-based RPG game.](https://elementos.io/)
 
-- 🌱 I’m currently learning **Unreal, Unity.**
+- 🌱 I’m currently learning ** Machine Learning, AI, Unreal, Unity**
 
-- 👯 I’m looking to collaborate on **Unity Projects.**
+- 👯 I’m looking to collaborate on **Unity Projects, machine learning projects, AI, AR and VR**
 
 - 👨‍💻 All of my projects publicly available are in [https://github.com/NeplayGames/](https://github.com/NeplayGames/)
 
