@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://shreejanpandey.itch.io/)
 
 <h1 align="center">Hi 👋, I'm Shreejan Pandey</h1>
-Software Developer based in Kathmandu Nepal
+Software Developer based in Kathmandu, Nepal.
 
 ## Main Projects
  
