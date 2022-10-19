@@ -1,7 +1,19 @@
 [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://shreejanpandey.itch.io/)
 
 <h1 align="center">Hi 👋, I'm Shreejan Pandey</h1>
-<h3 align="center">A passionate Software Developer from Kathmandu, Nepal.</h3>
+I'm a C and Ruby fan who's always looking to learn more about how things work.
+For that reason my projects tend to vary as I find new and interesting things
+to dig into, but I do have a few projects that I consistently work on.
+
+## Main Projects
+ * [Driving School](https://github.com/NeplayGames/DrivingSchool) is a unity based 3D game made to learn unity wheel collider 
+  as well as to make the game more fun and engaging
+   
+ * [Machine learnng to help visual Impared Person](https://github.com/NeplayGames/MajorProject) is a plugin for
+   NSA's [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 
+   
+ * [Archero](https://github.com/NeplayGames/ArcheroClone) 
+
 
 - 🔭 I’m currently working on [new turn-based RPG game.](https://elementos.io/)
 
