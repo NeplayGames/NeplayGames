@@ -6,14 +6,13 @@ For that reason my projects tend to vary as I find new and interesting things
 to dig into, but I do have a few projects that I consistently work on.
 
 ## Main Projects
+ 
+ * [Archero](https://github.com/NeplayGames/ArcheroClone) Its a game made with unity engine that is similar to mobile game Archero.
+ 
+ * [Machine learnng to help visual Impared Person](https://github.com/NeplayGames/MajorProject) 
+ 
  * [Driving School](https://github.com/NeplayGames/DrivingSchool) is a unity based 3D game made to learn unity wheel collider 
   as well as to make the game more fun and engaging
-   
- * [Machine learnng to help visual Impared Person](https://github.com/NeplayGames/MajorProject) is a plugin for
-   NSA's [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 
-   
- * [Archero](https://github.com/NeplayGames/ArcheroClone) 
-
 ## Some Info about me
 - 🔭 I’m currently working on [new turn-based RPG game.](https://elementos.io/)
 
