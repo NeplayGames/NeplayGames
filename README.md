@@ -14,7 +14,7 @@ to dig into, but I do have a few projects that I consistently work on.
    
  * [Archero](https://github.com/NeplayGames/ArcheroClone) 
 
-
+## Some Info about me
 - 🔭 I’m currently working on [new turn-based RPG game.](https://elementos.io/)
 
 - 🌱 I’m currently learning ** Machine Learning, AI, Unreal, Unity**
