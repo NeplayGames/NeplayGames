@@ -13,7 +13,7 @@ Software Developer based in Kathmandu, Nepal.
  * [Driving School](https://github.com/NeplayGames/DrivingSchool) is a unity based 3D game made to learn unity wheel collider 
   as well as to make the game more fun and engaging
 ## Some Info about me
-- 🔭 I’m currently working on [Third person role playing game.]([https://dreams.quest/])
+- 🔭 I’m currently working on [Third person role playing game.](https://dreams.quest/)
 
 - 🌱 I’m currently learning ** Machine Learning, AI, Unreal, Unity**
 
