@@ -10,8 +10,6 @@ Software Developer based in Kathmandu, Nepal.
  * [Machine learnng to help visual Impared Person](https://github.com/NeplayGames/MajorProject) A machine learning application that has trained data set capable
   of analizing an environment and use that to provided info to the user about the enviroment. 
  
- * [Driving School](https://github.com/NeplayGames/DrivingSchool) is a unity based 3D game made to learn unity wheel collider 
-  as well as to make the game more fun and engaging
 ## Some Info about me
 - 🔭 I’m currently working on [Third person role playing game.](https://dreams.quest/)
 
