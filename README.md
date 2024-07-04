@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif">
 - 🔭 I’m currently pursuing my masters in Computer Science at SIUE. I am also the Teaching assistant for the CS 382 Course Game Design, Development And Technology
 
-- I have worked for a
+- I have worked on the following Games
   
 - [RPG Game](https://dreams.quest/)
   
