@@ -4,7 +4,13 @@
 <h3 align="center">A passionate Game Developer from Kathmandu, Nepal</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif">
-- 🔭 I’m currently working on [new turn-based RPG game](https://elementos.io/)
+- 🔭 I’m currently pursuing my masters in Computer Science at SIUE. I am also the Teaching assistant for the CS 382 Course Game Design, Development And Technology
+
+- I have worked for a
+  
+- [RPG Game](https://dreams.quest/)
+  
+- [new turn-based RPG game](https://elementos.io/)
 
 - 🌱 I’m currently learning **Unreal, Unity**
 
