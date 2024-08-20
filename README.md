@@ -12,9 +12,9 @@
   
 - [new turn-based RPG game](https://elementos.io/)
 
-- 🌱 I’m currently learning **Unreal, Unity**
+- 🌱 I’m currently learning **Game Development, Pogramming, SPM**
 
-- 👯 I’m looking to collaborate on **Unity Projects**
+- 👯 I’m looking to collaborate on **Software Project and Game Development**
 
 - 👨‍💻 All of my projects publicly available are in [https://github.com/NeplayGames/](https://github.com/NeplayGames/)
 
