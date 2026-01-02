@@ -1,10 +1,10 @@
 [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://shreejanpandey.itch.io/)
 
 <h1 align="center">Hi 👋, I'm Shreejan Pandey</h1>
-<h3 align="center">A passionate Software Developer from Kathmandu, Nepal current pursuing my masters in Computer Science at SIUE</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif">
-- 🔭 I’m currently pursuing my masters in Computer Science at SIUE. I am also the Teaching assistant for the CS 382 Course Game Design, Development And Technology
+- 🔭 I am a software Engineer working at Center for Crime Science And Violence Prevention
 
 - I have worked on the following Games
   
